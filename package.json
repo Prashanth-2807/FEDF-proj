@@ -11,6 +11,9 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
+  {
+  "homepage": "https://prashanth-2807.github.io/FEDF-proj"
+}
   "dependencies": {
     "react": "^19.2.6",
     "react-dom": "^19.2.6"
