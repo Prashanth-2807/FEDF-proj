@@ -2,6 +2,7 @@
   "name": "proj-1",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://prashanth-2807.github.io/FEDF-proj",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -11,9 +12,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  {
-  "homepage": "https://prashanth-2807.github.io/FEDF-proj"
-}
   "dependencies": {
     "react": "^19.2.6",
     "react-dom": "^19.2.6"
